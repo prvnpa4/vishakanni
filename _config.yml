@@ -3,7 +3,7 @@
 #
 #Import Theme
 
-theme: jekyll-theme-chirpy
+theme: minima
 
 # Name of your site (displayed in the header)
 name: Project TeMe
